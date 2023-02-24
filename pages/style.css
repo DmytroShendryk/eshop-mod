@@ -1,0 +1,11 @@
+form small {
+    color: red;
+}
+
+.field {
+    margin-bottom: 15px;
+}
+
+.has-error {
+    border: 1px solid red;
+}
